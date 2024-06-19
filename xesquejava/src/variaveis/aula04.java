@@ -21,6 +21,7 @@ public class aula04 {
         System.out.print("peso: "+peso+"\n");
         System.out.print("tiposang: "+tiposang+"\n");
         System.out.print("fatorRh: "+fatorRh+"\n");
+        System.out.println("olá mundo");
 
         leitor.close();
     }
