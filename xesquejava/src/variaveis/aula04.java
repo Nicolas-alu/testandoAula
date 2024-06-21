@@ -6,6 +6,8 @@ public class aula04 {
 
     public static void main(String[] args) {
      
+        // teste //
+        
         Scanner leitor = new Scanner(System.in);
 
         String nome = leitor.nextLine();
@@ -22,6 +24,8 @@ public class aula04 {
         System.out.print("tiposang: "+tiposang+"\n");
         System.out.print("fatorRh: "+fatorRh+"\n");
         System.out.println("olá mundo");
+
+       
 
         leitor.close();
     }
