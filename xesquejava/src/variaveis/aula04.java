@@ -25,7 +25,7 @@ public class aula04 {
         System.out.print("fatorRh: "+fatorRh+"\n");
         System.out.println("olá mundo");
 
-       
+       System.out.println("não sei oq diferenciar");
 
         leitor.close();
     }
